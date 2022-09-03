@@ -1,0 +1,21 @@
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\bin\Debug\netcoreapp3.1\Public Chat.exe
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\bin\Debug\netcoreapp3.1\Public Chat.deps.json
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\bin\Debug\netcoreapp3.1\Public Chat.runtimeconfig.json
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\bin\Debug\netcoreapp3.1\Public Chat.runtimeconfig.dev.json
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\bin\Debug\netcoreapp3.1\Public Chat.dll
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\bin\Debug\netcoreapp3.1\Public Chat.pdb
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\obj\Debug\netcoreapp3.1\Public Chat.csproj.AssemblyReference.cache
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\obj\Debug\netcoreapp3.1\Public Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\obj\Debug\netcoreapp3.1\Public Chat.AssemblyInfoInputs.cache
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\obj\Debug\netcoreapp3.1\Public Chat.AssemblyInfo.cs
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\obj\Debug\netcoreapp3.1\Public Chat.csproj.CoreCompileInputs.cache
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\obj\Debug\netcoreapp3.1\Public Chat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\obj\Debug\netcoreapp3.1\staticwebassets\Public Chat.StaticWebAssets.Manifest.cache
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\obj\Debug\netcoreapp3.1\staticwebassets\Public Chat.StaticWebAssets.xml
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\obj\Debug\netcoreapp3.1\scopedcss\bundle\Public Chat.styles.css
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\obj\Debug\netcoreapp3.1\Public Chat.RazorTargetAssemblyInfo.cache
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\obj\Debug\netcoreapp3.1\Public Chat.dll
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\obj\Debug\netcoreapp3.1\Public Chat.pdb
+C:\Users\oleks\Desktop\.net\projects\public chat\backend\Public Chat\Public Chat\obj\Debug\netcoreapp3.1\Public Chat.genruntimeconfig.cache
